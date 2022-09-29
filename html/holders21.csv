@@ -29,6 +29,8 @@ Deputy Prime Minister,Ghassan Hasbani,Q5555850,2016-12-18,2019-02-03
 Deputy Prime Minister,Ghassan Hasbani,Q5555850,2019-02-03,2019-10-29
 Deputy Prime Minister,Zeina Akar,Q83475144,2020-01-21,2021-09-10
 Deputy Prime Minister,Saadeh Al Shami,Q108507913,2021-09-10,
+Minister of Agriculture,Ali Hassan Khalil,Q2836246,2003-04-17,2004-10-26
+Minister of Agriculture,Hussein Hajj Hassan,Q3143487,2009-11-09,2014-02-15
 Minister of Agriculture,Akram Chehayeb,Q2829137,2014-02-15,2016-12-18
 Minister of Agriculture,Abbas Al Haj Hassan,Q108508046,2021-09-10,
 Minister of Culture,Ghassan Salamé,Q330587,2000,2003
@@ -51,6 +53,9 @@ Minister of the Displaced,Akram Chehayeb,Q2829137,2009-11-09,2011-06-13
 Minister of the Displaced,Alaeddine Terro,Q2829473,2011-06-13,2014-02-14
 Minister of the Displaced,Issam Sharafeddine,Q108508043,2021-09-10,
 Minister of Economy and Trade,Marwan Hamadeh,Q743555,2003,2004-09
+Minister of Economy and Trade,Sami Haddad,Q3470778,2005,2008-07-22
+Minister of Economy and Trade,Mohammad Safadi,Q3318961,2008-07-22,2011-06-13
+Minister of Economy and Trade,Nicholas Nahas,Q4352658,2011-06-13,2014-02-15
 Minister of Economy and Trade,Amin Salam,Q108504534,2021-09-10,
 Minister of Education and Higher Education,Hassan Diab,Q5679624,2011-06-13,2014-02-15
 Minister of Education and Higher Education,Marwan Hamadeh,Q743555,2016-12-18,2019-01-31
@@ -63,6 +68,12 @@ Minister of Energy and Water,Walid Fayyad,Q108508019,2021-09-10,
 Minister of the Environment,Nasser Yassine,Q108508045,2021-09-10,
 Minister of Finance,Georges Corm,Q3102522,1998-12-04,2000-10-26
 Minister of Finance,Fouad Siniora,Q314263,2000-10-26,2004-10-26
+Minister of Finance,Jihad Azour,Q3178636,2005-07-19,2008-07-11
+Minister of Finance,Mohamad Chatah,Q3318922,2008-07-11,2009-11-09
+Minister of Finance,Raya Haffar El Hassan,Q3420579,2009-11-09,2011-06-13
+Minister of Finance,Mohammad Safadi,Q3318961,2011-06-13,2014-02
+Minister of Finance,Ali Hassan Khalil,Q2836246,2014-02-15,2020-01-20
+Minister of Finance,Ghazi Wazni,Q83428148,2020-01-21,2021-09-10
 Minister of Finance,Youssef Khalil,Q3572943,2021-09-10,
 Minister of Foreign Affairs,Selim al-Hoss,Q2094707,1998,2000
 Minister of Foreign Affairs,Mahmoud Hammoud,Q319983,2000-10-26,2003-04-17
@@ -76,19 +87,31 @@ Minister of Foreign Affairs,Nassif Hitti,Q20423714,2020-01-21,2020-08-03
 Minister of Foreign Affairs,Charbel Wehbe,Q98067735,2020-08-03,2021-05-19
 Minister of Foreign Affairs,Zeina Akar,Q83475144,2021-05-19,2021-09-10
 Minister of Foreign Affairs,Abdallah Bou Habib,Q108504531,2021-09-10,
+Minister of Health,Ali Hassan Khalil,Q2836246,2011-06-13,2014-02-15
+Minister of Health,Wael Abou Faour,Q3566888,2014-02-15,2016-12-18
+Minister of Health,Ghassan Hasbani,Q5555850,2016-12-18,2019-01-31
 Minister of Health,Firas Abiad,Q108508023,2021-09-10,
+Minister of Industry,Hussein Hajj Hassan,Q3143487,2014-02-15,2019-01-31
+Minister of Industry,Wael Abou Faour,Q3566888,2019-01-31,2020-01-20
+Minister of Industry,Imad Hoballah,Q83494020,2020-01-21,2020-08-10
 Minister of Industry,George Bouchikian,Q108508048,2021-09-10,
 Minister of Information,Manal Abdel Samad,Q83435066,2020-01-21,2021-09-10
 Minister of Information,George Kordahi,Q4165335,2021-09-10,2021-12-03
 Minister of Information,Abbas Halabi,Q108508022,2021-12-03,2022-03-10
 Minister of Information,Ziad Makary,Q111685992,2022-03-10,
 Minister of the Interior and Municipalities,Michel Murr,Q1738970,1994-02-09,2000-10-26
+Minister of the Interior and Municipalities,Raya Haffar El Hassan,Q3420579,2019-01-31,2020-01-21
+Minister of the Interior and Municipalities,Mohammed Fahmi,Q83475213,2020-01-21,2021-09-10
 Minister of the Interior and Municipalities,Bassam Mawlawi,Q108504533,2021-09-10,
 Minister of Justice,Henri Khoury,Q108504530,2021-09-10,
 Minister of Labour,Ali Qanso,Q339999,2000,2008
 Minister of Labour,Moustafa Bayram,Q108508025,2021-09-10,
 Minister of Public Works and Transport,Najib Mikati,Q318493,1998-12-06,2004-10-26
 Minister of Public Works and Transport,Ali Hamieh,Q108508021,2021-09-10,
+Minister of Social Affairs,Nayla Moawad,Q1395651,2005-07-19,2008-07-11
+Minister of Social Affairs,Mario Aoun,Q3293349,2008-07,2009-11
+Minister of Social Affairs,Salim Sayegh,Q15047048,2009-11-09,2011-06-13
+Minister of Social Affairs,Wael Abou Faour,Q3566888,2011-06-13,2014-02-15
 Minister of Social Affairs,Hector Hajjar,Q108524708,2021-09-10,
 Minister of Telecommunications,Marwan Hamadeh,Q743555,2005-07-19,2008-07-11
 Minister of Telecommunications,Gebran Bassil,Q2737847,2008-07-11,2009-11-08
