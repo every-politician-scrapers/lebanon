@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+        "name": "Lebanon",
+        "id": "Q822"
+    },
+    "cabinet": {
+      "id":     "Q108487252",
+      "start":  "2021-09-10",
+      "parent": "Q5015526"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Third_Cabinet_of_Najib_Mikati"
+    },
+    "person_description": {
+        "en": "Lebanese politician"
+    }
+}
