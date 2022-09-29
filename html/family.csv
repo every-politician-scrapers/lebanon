@@ -1,6 +1,8 @@
 id,name,relationship,relative,relativename
 Q1250858,Dory Chamoun,father,Q365971,Camille Chamoun
 Q1250858,Dory Chamoun,sibling,Q1165211,Dany Chamoun
+Q1329138,Elias Murr,father,Q1738970,Michel Murr
+Q1329138,Elias Murr,sibling,Q6873789,Mirna Murr
 Q1738970,Michel Murr,child,Q1329138,Elias Murr
 Q1738970,Michel Murr,child,Q6873789,Mirna Murr
 Q1738970,Michel Murr,sibling,Q1982601,May Murr
@@ -20,6 +22,7 @@ Q206479,Émile Lahoud,child,Q5371579,Emile Lahoud Jr.
 Q206479,Émile Lahoud,father,Q2583157,Jamil Lahoud
 Q2081667,Raymond Audi,child,Q16669236,Paul Audi
 Q2081667,Raymond Audi,child,Q7192056,Pierre Audi
+Q2820965,Abdul Rahim Mourad,child,Q63257122,حسن عبد الرحيم مراد
 Q2821159,Abdel Latif El Zein,father,Q12252041,Youssef Zein
 Q2821159,Abdel Latif El Zein,sibling,Q12223245,Abdul Karim Zein
 Q2821159,Abdel Latif El Zein,sibling,Q12223736,Abdel Majid Zein
@@ -43,3 +46,6 @@ Q56640421,Sami Fatfat,father,Q400641,Ahmad Fatfat
 Q57427,Michel Suleiman,child,Q112152734,Rita Suleiman
 Q57427,Michel Suleiman,spouse,Q674366,Wafaa Sleiman
 Q67846940,Taymur Jumblatt,father,Q380437,Walid Jumblatt
+Q743555,Marwan Hamadeh,father,Q56233178,Muhammad Ali Hamada
+Q743555,Marwan Hamadeh,sibling,Q12228074,Ali Hamada
+Q743555,Marwan Hamadeh,sibling,Q2915860,Nadia Tueni
