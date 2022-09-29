@@ -1,6 +1,6 @@
 position,person,personID,start,end
 President,Émile Lahoud,Q206479,1998-11-24,2007-11-24
-President,Fouad Siniora,Q314263,2007-11-23,2008-05-25
+President,Fouad Siniora,Q314263,2007-11-24,2008-05-25
 President,Michel Suleiman,Q57427,2008-05-25,2014-05-24
 President,Tammam Salam,Q3514836,2014-05-25,2016-10-31
 President,Michel Aoun,Q363392,2016-10-31,
@@ -8,7 +8,7 @@ Prime Minister,Selim al-Hoss,Q2094707,1998-12-06,2000-10-23
 Prime Minister,Rafic Hariri,Q192778,2000-10-23,2004-10-21
 Prime Minister,Omar Karami,Q396606,2004-10-26,2005-04-19
 Prime Minister,Najib Mikati,Q318493,2005-04-15,2005-07-19
-Prime Minister,Fouad Siniora,Q314263,2005-07-19,2009-11-09
+Prime Minister,Fouad Siniora,Q314263,2005-07-18,2009-11-09
 Prime Minister,Saad Hariri,Q296771,2009-11-09,2011-06-13
 Prime Minister,Najib Mikati,Q318493,2011-06-13,2014-02-15
 Prime Minister,Tammam Salam,Q3514836,2014-02-15,2016-12-18
@@ -16,28 +16,87 @@ Prime Minister,Saad Hariri,Q296771,2016-12-18,2019-10-29
 Prime Minister,Hassan Diab,Q5679624,2019-12-19,2020-08-10
 Prime Minister,Hassan Diab,Q5679624,2020-08-10,2021-09-10
 Prime Minister,Najib Mikati,Q318493,2021-09-10,
+Deputy Prime Minister,Issam Fares,Q764478,2000-10-26,2003-04-17
+Deputy Prime Minister,Issam Fares,Q764478,2003-04-17,2004-10-26
+Deputy Prime Minister,Issam Fares,Q764478,2004-10-26,2005-04-19
+Deputy Prime Minister,Elias Murr,Q1329138,2005-04-19,2005-07-19
+Deputy Prime Minister,Elias Murr,Q1329138,2005-07-19,2005-11-13
+Deputy Prime Minister,Issam Abu Jamra,Q657217,2008-07-11,2009-11-09
+Deputy Prime Minister,Elias Murr,Q1329138,2009-11-09,2011-01-12
+Deputy Prime Minister,Samir Mouqbel,Q7409525,2011-06-13,2013-03-23
+Deputy Prime Minister,Samir Mouqbel,Q7409525,2014-02-15,2016-12-18
+Deputy Prime Minister,Ghassan Hasbani,Q5555850,2016-12-18,2019-02-03
+Deputy Prime Minister,Ghassan Hasbani,Q5555850,2019-02-03,2019-10-29
+Deputy Prime Minister,Zeina Akar,Q83475144,2020-01-21,2021-09-10
+Deputy Prime Minister,Saadeh Al Shami,Q108507913,2021-09-10,
+Minister of Agriculture,Akram Chehayeb,Q2829137,2014-02-15,2016-12-18
+Minister of Agriculture,Abbas Al Haj Hassan,Q108508046,2021-09-10,
 Minister of Culture,Ghassan Salamé,Q330587,2000,2003
 Minister of Culture,Tammam Salam,Q3514836,2008-07-11,2009-11-09
+Minister of Culture,Mohammad Mortada,Q108508047,2021-09-10,
+Minister of Defence,Ghazi Zaiter,Q2943722,1998-12-04,2000-10-26
+Minister of Defence,Khalil Hraoui,Q3196030,2000-10-26,2003-04-17
 Minister of Defence,Mahmoud Hammoud,Q319983,2003-04-17,2005-07-19
+Minister of Defence,Abdul Rahim Mourad,Q2820965,2004-10-26,2005-04-19
+Minister of Defence,Elias Murr,Q1329138,2005-04-19,2011-06-13
 Minister of Defence,Fayez Ghosn,Q3455975,2011-06-13,2014-02-15
+Minister of Defence,Samir Mouqbel,Q7409525,2014-02-14,2016-12-18
+Minister of Defence,Yacoub Sarraf,Q330377,2016-12-18,2019-02-03
+Minister of Defence,Elias Bou Saab,Q21005151,2019-02-03,2020-01-21
+Minister of Defence,Zeina Akar,Q83475144,2020-01-21,2021-09-10
 Minister of Defence,Maurice Sleem,Q108504532,2021-09-10,
+Minister of the Displaced,Marwan Hamadeh,Q743555,2000-10,2003
 Minister of the Displaced,Raymond Audi,Q2081667,2008-07-11,2009-11-09
+Minister of the Displaced,Akram Chehayeb,Q2829137,2009-11-09,2011-06-13
+Minister of the Displaced,Alaeddine Terro,Q2829473,2011-06-13,2014-02-14
+Minister of the Displaced,Issam Sharafeddine,Q108508043,2021-09-10,
+Minister of Economy and Trade,Marwan Hamadeh,Q743555,2003,2004-09
+Minister of Economy and Trade,Amin Salam,Q108504534,2021-09-10,
 Minister of Education and Higher Education,Hassan Diab,Q5679624,2011-06-13,2014-02-15
+Minister of Education and Higher Education,Marwan Hamadeh,Q743555,2016-12-18,2019-01-31
+Minister of Education and Higher Education,Akram Chehayeb,Q2829137,2019-02-01,2020-01-21
+Minister of Education and Higher Education,Tarek Majzoub,Q83484387,2020-01-21,2021-09-10
+Minister of Education and Higher Education,Abbas Halabi,Q108508022,2021-09-10,
 Minister of Electrical and Water Resources,Muhammad Baydoun,Q251878,2000-10-26,2003-04-17
 Minister of Energy and Water,Gebran Bassil,Q2737847,2009-11-09,2014-02-14
+Minister of Energy and Water,Walid Fayyad,Q108508019,2021-09-10,
 Minister of the Environment,Nasser Yassine,Q108508045,2021-09-10,
+Minister of Finance,Georges Corm,Q3102522,1998-12-04,2000-10-26
+Minister of Finance,Fouad Siniora,Q314263,2000-10-26,2004-10-26
+Minister of Finance,Youssef Khalil,Q3572943,2021-09-10,
+Minister of Foreign Affairs,Selim al-Hoss,Q2094707,1998,2000
 Minister of Foreign Affairs,Mahmoud Hammoud,Q319983,2000-10-26,2003-04-17
 Minister of Foreign Affairs,Jean Obeid,Q3173769,2003-04-17,2004-10-26
+Minister of Foreign Affairs,Mahmoud Hammoud,Q319983,2004-10-26,2005-03
+Minister of Foreign Affairs,Fawzi Salloukh,Q58177,2005-06-19,2009-11-09
+Minister of Foreign Affairs,Ali Al Shami,Q4724634,2009-11-09,2011-06-13
+Minister of Foreign Affairs,Adnan Mansour,Q58274,2011-06-13,2014-02-15
 Minister of Foreign Affairs,Gebran Bassil,Q2737847,2014-02-15,2020-01-21
 Minister of Foreign Affairs,Nassif Hitti,Q20423714,2020-01-21,2020-08-03
 Minister of Foreign Affairs,Charbel Wehbe,Q98067735,2020-08-03,2021-05-19
+Minister of Foreign Affairs,Zeina Akar,Q83475144,2021-05-19,2021-09-10
 Minister of Foreign Affairs,Abdallah Bou Habib,Q108504531,2021-09-10,
-Minister of Information,George Kordahi,Q4165335,2021-09-10,
+Minister of Health,Firas Abiad,Q108508023,2021-09-10,
+Minister of Industry,George Bouchikian,Q108508048,2021-09-10,
+Minister of Information,Manal Abdel Samad,Q83435066,2020-01-21,2021-09-10
+Minister of Information,George Kordahi,Q4165335,2021-09-10,2021-12-03
+Minister of Information,Abbas Halabi,Q108508022,2021-12-03,2022-03-10
+Minister of Information,Ziad Makary,Q111685992,2022-03-10,
 Minister of the Interior and Municipalities,Michel Murr,Q1738970,1994-02-09,2000-10-26
 Minister of the Interior and Municipalities,Bassam Mawlawi,Q108504533,2021-09-10,
 Minister of Justice,Henri Khoury,Q108504530,2021-09-10,
 Minister of Labour,Ali Qanso,Q339999,2000,2008
+Minister of Labour,Moustafa Bayram,Q108508025,2021-09-10,
+Minister of Public Works and Transport,Najib Mikati,Q318493,1998-12-06,2004-10-26
+Minister of Public Works and Transport,Ali Hamieh,Q108508021,2021-09-10,
+Minister of Social Affairs,Hector Hajjar,Q108524708,2021-09-10,
+Minister of Telecommunications,Marwan Hamadeh,Q743555,2005-07-19,2008-07-11
 Minister of Telecommunications,Gebran Bassil,Q2737847,2008-07-11,2009-11-08
+Minister of Telecommunications,Johnny Corm,Q108508058,2021-09-10,
+Minister of Tourism,Walid Nassar,Q108508033,2021-09-10,
+Minister of Youth and Sports,Georges Kallas,Q108508044,2021-09-10,
+Minister of State for Administrative Reform,Najla Riachi,Q108524635,2021-09-10,
+Speaker of the Parliament,Nabih Berri,Q704220,1992-10-20,
 Governor of the Bank of Lebanon,Riad Salameh,Q3362882,1993-08-01,
 Deputy Speaker of the Parliament,Farid Makari,Q3066903,2005-06-05,2018-05-06
 ambassador to the United Kingdom,Rami Mortada,Q97054975,2017,
