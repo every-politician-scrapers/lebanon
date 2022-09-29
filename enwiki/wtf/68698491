@@ -1,0 +1,196 @@
+{
+  "title": "Abdallah Bou Habib",
+  "pageID": 68698491,
+  "categories": [
+    "Living people",
+    "Foreign ministers of Lebanon",
+    "Free Patriotic Movement politicians",
+    "Lebanese Maronites",
+    "American University of Beirut alumni",
+    "Vanderbilt University alumni",
+    "Place of birth missing (living people)",
+    "1941 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abdallah Bou Habib is a Lebanese economist, author, and diplomat who since 2021 serves as Minister of Foreign Affairs in the government of Prime Minister Najib Mikati.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs and Emigrants (Lebanon)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Najib Mikati"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abdallah Bou Habib"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Abdallah Rashid Bouhabib, born November 21, 1941, is a Lebanese economist, author, and diplomat who since September 10, 2021, is serving as the 50th Minister of Foreign Affairs and Emigrants of Lebanon, a cabinet position heading the department of government that executes the country's foreign policy and maintains relations with its extensive diaspora communities."
+            },
+            {
+              "text": "He previously served as Adviser to the Deputy Prime Minister of Lebanon (2001-2005) and as Lebanon's Ambassador to the United States (1983-1990)."
+            },
+            {
+              "text": "From 2007-2015 Bouhabib founded and directed the Issam Fares Center for Lebanon, a non-partisan Beirut based think-tank dedicated to the advancement of a balanced and realistic understanding of major global, regional and domestic issues affecting Lebanon."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bouhabib was born in Jdeide, el Matn, Lebanon."
+            },
+            {
+              "text": "He is a graduate of Brummana High School (1960) and the American University of Beirut where he received his B.A. in Economics (1967) and his M.A. in Economics (ABT 1970)."
+            },
+            {
+              "text": "He received his Ph.D. in Economics from Vanderbilt University in Nashville, Tennessee in 1975."
+            },
+            {
+              "text": "At Vanderbilt University Department of Economics he taught as Assistant Professor (1975-76) and as Senior Teaching Fellow (1973-75)."
+            },
+            {
+              "text": "He served as Lecturer at Notre Dame University, Lebanon (2002-2003) and at La Sagesse University, Lebanon (2003-2015)"
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1976, Bouhabib joined the World Bank Group where he served as an Economist and later as Senior Loan Officer until 1983."
+            },
+            {
+              "text": "After serving as Ambassador of Lebanon, he rejoined the World Bank in 1992 and served as Senior Adviser to the Vice President of the MENA Region & Regional External Affairs Unit Chief, MENA Region until retirement in 2001."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bouhabib has written two books: America's Values and Interest/ A Half Century of US Foreign Policy in the Middle East, 2019 (Arabic) and Al Daou' Al Assar, US policy Towards Lebanon, a record of Bouhabib's seven years as Lebanon's Ambassador to the US, 1991 (Arabic)."
+            },
+            {
+              "text": "Over the past thirty years, he has published a myriad of articles about Lebanon in regional and international dailies."
+            },
+            {
+              "text": "His Ph.D. dissertation: The Long-Run Supply of Crude Oil in the United States (Vanderbilt University, 1975) was published by Arno Press, NY, 1979."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bouhabib is married to Julia Seabrook Cole and together they have three children and six grandchildren."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Lebanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1941",
+          "month": "11",
+          "day": "21",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Abdallah Bou Habib.png"
+          },
+          "caption": {
+            "text": "Abdallah Bou Habib, 2022"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs and Emigrants",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs and Emigrants",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs and Emigrants (Lebanon)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 September 2021"
+          },
+          "primeminister": {
+            "text": "Najib Mikati",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najib Mikati"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Zeina Akar (interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zeina Akar"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Lebanese"
+          },
+          "birth_date": {
+            "text": "November 21, 1941"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://m.naharnet.com/stories/en/283970-line-up-of-najib-miqati-s-government-announced",
+          "title": "Line-Up of Najib Mikati's Government Announced",
+          "accessdate": "11 September 2021",
+          "website": "m.naharnet.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "foreign ministers of lebanon"
+        },
+        {
+          "template": "lebanon-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Ziad Makary",
+  "pageID": 70597579,
+  "categories": [
+    "Living people",
+    "20th-century births",
+    "21st-century Lebanese politicians",
+    "Information ministers of Lebanon",
+    "Marada Movement politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ziad Al-Makary is a Lebanese politician currently serving as Minister of Information in the Third Cabinet of Najib Mikati.",
+              "links": [
+                {
+                  "text": "Minister of Information",
+                  "type": "internal",
+                  "page": "Ministry of Information (Lebanon)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Third Cabinet of Najib Mikati"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ziad Al-Makary"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Lebanese politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Information",
+            "links": [
+              {
+                "text": "Minister of Information",
+                "type": "internal",
+                "page": "Ministry of Information (Lebanon)"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "10 March 2022"
+          },
+          "predecessor": {
+            "text": "Abbas Halabi (ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abbas Halabi"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-03-10",
+          "title": "Cabinet drops megacenters for May elections, appoints new information minister",
+          "url": "https://today.lorientlejour.com/article/1293262/cabinet-drops-megacenters-for-may-elections-appoints-new-information-minister.html",
+          "access-date": "2022-04-22",
+          "website": "L'Orient Today",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "edenglish",
+          "title": "Al-Makary In Wake Of Cabinet Session: Agreement On Setting Up Anti-Corruption Commission Headquarters In Beirut",
+          "url": "https://www.ministryinfo.gov.lb/en/74061",
+          "access-date": "2022-04-22",
+          "website": "Lebanese Ministry of Information",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "lebanon-politician-stub"
+        }
+      ]
+    }
+  ]
+}

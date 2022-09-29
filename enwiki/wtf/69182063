@@ -1,0 +1,257 @@
+{
+  "title": "Maurice Sleem",
+  "pageID": 69182063,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Defense ministers of Lebanon",
+    "Lebanese politicians",
+    "Greek Orthodox Christians from Lebanon",
+    "Free Patriotic Movement politicians",
+    "Lebanese military personnel"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maurice Sleem (born in Kfarshima, Lebanon, on February 5, 1954) is a Lebanese politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kfarshima"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maurice Sleem"
+                ]
+              }
+            },
+            {
+              "text": "He has been the Minister of National Defense since September 10, 2021 (the formation of the government of Prime Minister Najib Mikati).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Najib Mikati"
+                }
+              ]
+            },
+            {
+              "text": "He is a Brigadier General in the Lebanese Armed Forces (retired).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lebanese Armed Forces"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his 40-year career, he held key posts and staff assignments in Army operational Units."
+            },
+            {
+              "text": "He also worked at the Lebanese Presidency for many years."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He retired from the Army in 2012."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Lebanese Minister of National Defense",
+          "template": "short description"
+        },
+        {
+          "year": "1954",
+          "month": "2",
+          "day": "05",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Maurice Sleem"
+          },
+          "imagesize": {
+            "text": "70",
+            "number": 70
+          },
+          "office": {
+            "text": "Minister of National Defense",
+            "links": [
+              {
+                "text": "Minister of National Defense",
+                "type": "internal",
+                "page": "Ministry of National Defense (Lebanon)"
+              }
+            ]
+          },
+          "country": {
+            "text": "Lebanon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lebanon"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "10 September 2021"
+          },
+          "primeminister": {
+            "text": "Najib Mikati",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najib Mikati"
+              }
+            ]
+          },
+          "preceded": {
+            "text": "Zeina Akar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zeina Akar"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 5, 1954"
+          },
+          "birth_place": {
+            "text": "Kfarshima, Lebanon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lebanon"
+              }
+            ]
+          },
+          "party": {
+            "text": "Free Patriotic Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Free Patriotic Movement"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Decorations and medals",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Lebanese Order of Merit 3rd Grade.",
+            "links": [
+              {
+                "text": "Lebanese Order of Merit",
+                "type": "internal",
+                "page": "Order of Merit (Lebanon)"
+              }
+            ]
+          },
+          {
+            "text": "Lebanese Order of Merit 2nd Grade.",
+            "links": [
+              {
+                "text": "Lebanese Order of Merit",
+                "type": "internal",
+                "page": "Order of Merit (Lebanon)"
+              }
+            ]
+          },
+          {
+            "text": "Lebanese Order of Merit 1st Grade.",
+            "links": [
+              {
+                "text": "Lebanese Order of Merit",
+                "type": "internal",
+                "page": "Order of Merit (Lebanon)"
+              }
+            ]
+          },
+          {
+            "text": "National Order of the Cedar Knight Grade.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Order of the Cedar"
+              }
+            ]
+          },
+          {
+            "text": "National Order of the Cedar Officer Grade."
+          },
+          {
+            "text": "National Order of the Cedar Commander Grade."
+          },
+          {
+            "text": "War Order (4)."
+          },
+          {
+            "text": "Order of the “Dawn of the South”."
+          },
+          {
+            "text": "Order of Battle Wounded / Purple Heart."
+          },
+          {
+            "text": "Order of National Unity."
+          },
+          {
+            "text": "Military Valor Order."
+          },
+          {
+            "text": "Order of Fight against Terrorism."
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

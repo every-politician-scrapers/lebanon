@@ -1,0 +1,188 @@
+{
+  "title": "Abbas Halabi",
+  "pageID": 70321157,
+  "categories": [
+    "Living people",
+    "1948 births",
+    "Education ministers of Lebanon",
+    "Druze people of Lebanese nationality",
+    "Progressive Socialist Party politicians",
+    "Paris Nanterre University alumni",
+    "Saint Joseph University alumni",
+    "People from Baabda District",
+    "Date of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abbas Salim al-Halabi (born 1948) is a Lebanese politician from the Progressive Socialist Party currently serving as Minister of Education in the Third Cabinet of Najib Mikati.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Progressive Socialist Party"
+                },
+                {
+                  "text": "Minister of Education",
+                  "type": "internal",
+                  "page": "Ministry of Education and Higher Education (Lebanon)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Third Cabinet of Najib Mikati"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abbas Salim al-Halabi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Lebanese politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office1": {
+            "text": "Minister of Education and Higher Learning",
+            "links": [
+              {
+                "text": "Minister of Education and Higher Learning",
+                "type": "internal",
+                "page": "Ministry of Education and Higher Education (Lebanon)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 September 2021"
+          },
+          "primeminister1": {
+            "text": "Najib Mikati",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najib Mikati"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Tarek Majzoub",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tarek Majzoub"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Information",
+            "links": [
+              {
+                "text": "Minister of Information",
+                "type": "internal",
+                "page": "Ministry of Information (Lebanon)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "Ad interim\n3 December 2021",
+            "formatting": {
+              "italic": [
+                "Ad interim"
+              ]
+            }
+          },
+          "term_end": {
+            "text": "10 March 2022"
+          },
+          "primeminister": {
+            "text": "Najib Mikati",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najib Mikati"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "George Kordahi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "George Kordahi"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Ziad Makary",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ziad Makary"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Lebanese"
+          },
+          "party": {
+            "text": "Independent"
+          },
+          "birth_date": {
+            "text": "Birth year 1949"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Yassine·Politics·",
+          "first": "Hussein",
+          "date": "2021-09-11",
+          "title": "Who Is Abbas Halabi, Lebanon's New Minister Of Education",
+          "url": "https://www.the961.com/abbas-halabi-lebanese-minister-education/",
+          "access-date": "2022-03-23",
+          "website": "961",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-01-29",
+          "title": "Lebanese Education Minister Raises Alarm Over Crisis in Schools",
+          "url": "https://www.al-fanarmedia.org/2022/01/lebanese-education-minister-raises-alarm-over-crisis-in-schools/",
+          "access-date": "2022-03-23",
+          "website": "Al-Fanar Media",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "lebanon-politician-stub"
+        }
+      ]
+    }
+  ]
+}

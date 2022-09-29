@@ -1,0 +1,211 @@
+{
+  "title": "Youssef Khalil",
+  "pageID": 68698453,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "American University of Beirut alumni",
+    "Alumni of the University of Sussex",
+    "Lebanese bankers",
+    "Lebanese economists",
+    "Finance ministers of Lebanon",
+    "Amal Movement politicians",
+    "People from Tyre, Lebanon"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Youssef Khalil is a Lebanese economist and politician who serves as Minister of Finance in the Najib Mikati cabinet since 2021.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Lebanon)"
+                },
+                {
+                  "text": "Najib Mikati cabinet",
+                  "type": "internal",
+                  "page": "Third Cabinet of Najib Mikati"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Youssef Khalil"
+                ]
+              }
+            },
+            {
+              "text": "Khalil joined the Banque du Liban as an economist in 1982, where his most recent appointment was as Executive director of BDL's Financial Operations department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Banque du Liban"
+                }
+              ]
+            },
+            {
+              "text": "He is also a part-time lecturer at the American University of Beirut, where his main emphasis has been on Development Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "American University of Beirut"
+                }
+              ]
+            },
+            {
+              "text": "Khalil is the co-founder and president of the Association for the Development of Rural Capacities (ADR), an NGO with projects pertaining to low income housing, microfinance, vocational training agricultural development."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He holds a PhD in Economics from the Center for Studies and Research on International Development (CERDI) at the Clermont Auvergne University in France, a Master's degree in Economic Development from the University of Sussex in the UK, and a Bachelor's degree in Economics from the American University of Beirut.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Clermont Auvergne University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Sussex"
+                },
+                {
+                  "type": "internal",
+                  "page": "American University of Beirut"
+                }
+              ]
+            },
+            {
+              "text": "He is the author of several published articles on Economic Development in Lebanon and the region, and an invited speaker and participant in numerous national and international conferences and workshops."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Khalil is an active member at a number of non-governmental organizations, including the Euro-Arab Association for Development and Integration (READI) and the president of Teach for Lebanon (TFL), the Lebanese Microfinance Association (LMFA), and the Lebanese Jiu-jitsu Federation.",
+              "links": [
+                {
+                  "text": "Jiu-jitsu",
+                  "type": "internal",
+                  "page": "Jujutsu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Lebanese politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1958",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Lebanon)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 September 2021"
+          },
+          "primeminister": {
+            "text": "Najib Mikati",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najib Mikati"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ghazi Wazni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ghazi Wazni"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1958 (age 64)"
+          },
+          "birth_place": {
+            "text": "Tyre, Lebanon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tyre, Lebanon"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Lebanese"
+          },
+          "native_name": {
+            "text": "يوسف خليل"
+          },
+          "native_name_lang": {
+            "text": "ar"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Qui est Youssef Khalil, le cadre de la BDL nommé aux Finances ?",
+          "url": "https://www.lorientlejour.com/article/1274416/qui-est-youssef-khalil-le-cadre-de-la-bdl-nomme-aux-finances-.html",
+          "access-date": "15 September 2021",
+          "agency": "L'Orient Le Jour",
+          "issue": "2021–09–11",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Who is in the new Lebanese Cabinet?",
+          "url": "https://www.thenationalnews.com/mena/lebanon/2021/09/10/who-is-in-the-new-lebanese-cabinet/",
+          "access-date": "15 September 2021",
+          "agency": "The National News",
+          "issue": "2021–09–10",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
