@@ -3,6 +3,8 @@ Q1250858,Dory Chamoun,father,Q365971,Camille Chamoun
 Q1250858,Dory Chamoun,sibling,Q1165211,Dany Chamoun
 Q1329138,Elias Murr,father,Q1738970,Michel Murr
 Q1329138,Elias Murr,sibling,Q6873789,Mirna Murr
+Q1395651,Nayla Moawad,child,Q12246818,Michel Moawad
+Q1395651,Nayla Moawad,spouse,Q471263,René Moawad
 Q1738970,Michel Murr,child,Q1329138,Elias Murr
 Q1738970,Michel Murr,child,Q6873789,Mirna Murr
 Q1738970,Michel Murr,sibling,Q1982601,May Murr
