@@ -1,0 +1,45 @@
+id,name,relationship,relative,relativename
+Q1250858,Dory Chamoun,father,Q365971,Camille Chamoun
+Q1250858,Dory Chamoun,sibling,Q1165211,Dany Chamoun
+Q1738970,Michel Murr,child,Q1329138,Elias Murr
+Q1738970,Michel Murr,child,Q6873789,Mirna Murr
+Q1738970,Michel Murr,sibling,Q1982601,May Murr
+Q1738970,Michel Murr,sibling,Q3093894,Gabriel Murr
+Q192778,Rafic Hariri,child,Q10279737,Fahd Hariri
+Q192778,Rafic Hariri,child,Q12207792,Hossam El-Din Hariri
+Q192778,Rafic Hariri,child,Q21662949,Ayman Hariri
+Q192778,Rafic Hariri,child,Q296771,Saad Hariri
+Q192778,Rafic Hariri,child,Q5765833,Hind Hariri
+Q192778,Rafic Hariri,child,Q800179,Bahaa Hariri
+Q192778,Rafic Hariri,father,Q107017756,Bahaa Hariri
+Q192778,Rafic Hariri,mother,Q107017758,Hind Hariri
+Q192778,Rafic Hariri,sibling,Q468909,Bahia Hariri
+Q192778,Rafic Hariri,spouse,Q20424718,Nidal Boustany
+Q192778,Rafic Hariri,spouse,Q4165734,Nazik Hariri
+Q206479,Émile Lahoud,child,Q5371579,Emile Lahoud Jr.
+Q206479,Émile Lahoud,father,Q2583157,Jamil Lahoud
+Q2081667,Raymond Audi,child,Q16669236,Paul Audi
+Q2081667,Raymond Audi,child,Q7192056,Pierre Audi
+Q2821159,Abdel Latif El Zein,father,Q12252041,Youssef Zein
+Q2821159,Abdel Latif El Zein,sibling,Q12223245,Abdul Karim Zein
+Q2821159,Abdel Latif El Zein,sibling,Q12223736,Abdel Majid Zein
+Q296771,Saad Hariri,father,Q192778,Rafic Hariri
+Q296771,Saad Hariri,mother,Q20424718,Nidal Boustany
+Q296771,Saad Hariri,sibling,Q10279737,Fahd Hariri
+Q296771,Saad Hariri,sibling,Q800179,Bahaa Hariri
+Q318493,Najib Mikati,sibling,Q19896212,Taha Mikati
+Q330587,Ghassan Salamé,child,Q30117430,Louma Salamé
+Q330587,Ghassan Salamé,child,Q3270032,Léa Salamé
+Q3435215,Robert Ghanem,father,Q2104530,Iskandar Ghanem
+Q3514836,Tammam Salam,father,Q2002354,Saeb Salam
+Q3514836,Tammam Salam,spouse,Q17198679,Lama Salam
+Q363392,Michel Aoun,relative,Q2737847,Gebran Bassil
+Q363392,Michel Aoun,relative,Q2829514,Alain Aoun
+Q396606,Omar Karami,child,Q3067717,Faisal Karami
+Q396606,Omar Karami,father,Q317274,Abdul Hamid Karami
+Q396606,Omar Karami,sibling,Q1344225,Rashid Karami
+Q4695381,Ahmad Karami,relative,Q3067717,Faisal Karami
+Q56640421,Sami Fatfat,father,Q400641,Ahmad Fatfat
+Q57427,Michel Suleiman,child,Q112152734,Rita Suleiman
+Q57427,Michel Suleiman,spouse,Q674366,Wafaa Sleiman
+Q67846940,Taymur Jumblatt,father,Q380437,Walid Jumblatt
