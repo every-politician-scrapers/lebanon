@@ -143,11 +143,11 @@
             ]
           },
           "party": {
-            "text": "Free Patriotic Movement",
+            "text": "Independent",
             "links": [
               {
                 "type": "internal",
-                "page": "Free Patriotic Movement"
+                "page": "Independent"
               }
             ]
           }

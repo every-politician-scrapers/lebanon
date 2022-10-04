@@ -112,7 +112,7 @@
           "template": "use dmy dates"
         },
         {
-          "df": "y",
+          "df": "yes",
           "year": "1941",
           "month": "11",
           "day": "21",
@@ -158,11 +158,40 @@
               }
             ]
           },
-          "nationality": {
-            "text": "Lebanese"
-          },
           "birth_date": {
             "text": "November 21, 1941"
+          },
+          "birth_place": {
+            "text": "Lebanon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lebanon"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "American University of Beirut Vanderbilt University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "American University of Beirut"
+              },
+              {
+                "type": "internal",
+                "page": "Vanderbilt University"
+              }
+            ]
           }
         }
       ],
