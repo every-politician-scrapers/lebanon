@@ -1942,7 +1942,7 @@
         {
           "sentences": [
             {
-              "text": "In the parliamentary election at the end of May 2005, the political leaders of the Syrian occupation imposed to run the elections with the 2000 electoral law... a law that Critics argue was implemented by Syrian intelligence chief Ghazi Kanaan and Rafik Hariri, that does not provide for a real popular representation and marginalizes many communities especially the Christian one throughout the country.",
+              "text": "In the parliamentary election at the end of May 2005, the political leaders of the Syrian occupation imposed to run the elections with the 2000 electoral law; a law that Critics argue was implemented by Syrian intelligence chief Ghazi Kanaan and Rafik Hariri, that does not provide for a real popular representation and marginalizes many communities especially the Christian one throughout the country.",
               "links": [
                 {
                   "text": "parliamentary election",
@@ -2120,6 +2120,23 @@
         }
       ],
       "references": [
+        {
+          "title": "Hezbollah reiterates commitment to Mar Mikhael agreement on its 12th anniversary",
+          "url": "https://www.lbcgroup.tv/news/breaking-news/361064/hezbollah-reiterates-commitment-to-mar-mikhael-agr/en",
+          "access-date": "2021-10-21",
+          "website": "LBCI Lebanon",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "نص ورقة التفاهم بين حزب الله والتيار الوطني الحر المعلنة بتاريخ 6 شباط/فبراير 2006 – موقع قناة المنار – لبنان",
+          "url": "https://almanar.com.lb/1481863",
+          "access-date": "2021-10-21",
+          "website": "almanar.com.lb",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "author": "William Harris",
           "title": "Lebanon: A History, 600–2011",
@@ -2899,7 +2916,17 @@
         {
           "sentences": [
             {
-              "text": "After the resignation of Tammam Salam, Aoun designated Saad Hariri to form a new cabinet following binding parliamentary consultations."
+              "text": "After the resignation of Tammam Salam, Aoun designated Saad Hariri to form a new cabinet following binding parliamentary consultations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tammam Salam"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saad Hariri"
+                }
+              ]
             },
             {
               "text": "This came as a result of the consensus that led to the election of Aoun, and it was the second time Hariri held the position."
@@ -2915,7 +2942,13 @@
         {
           "sentences": [
             {
-              "text": "On 4 November 2017, Hariri resigned from office in a televised statement from Saudi Arabia and blamed it on Iran policies and it is \"interference in the Lebanese affairs\"."
+              "text": "On 4 November 2017, Hariri resigned from office in a televised statement from Saudi Arabia and blamed it on Iran policies and it is \"interference in the Lebanese affairs\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saudi Arabia"
+                }
+              ]
             },
             {
               "text": "He also described Hezbollah a threat to the security of Lebanon, and compared the situation in Lebanon with the one before the assassination of Rafic Hariri."
@@ -2924,7 +2957,13 @@
               "text": "Iran called his resignation part of a plot by the United States, Israel, and Saudi Arabia to heighten Middle Eastern tensions."
             },
             {
-              "text": "The secretary general of Hezbollah Hassan Nasrallah considered this a Saudi declaration of war on Lebanon."
+              "text": "The secretary general of Hezbollah Hassan Nasrallah considered this a Saudi declaration of war on Lebanon.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hassan Nasrallah"
+                }
+              ]
             },
             {
               "text": "After his 12-day stay in Saudi Arabia, Aoun informed the foreign ambassadors that he is detained there."
@@ -2945,6 +2984,14 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "list": [
+            "2017 Lebanon–Saudi Arabia dispute"
+          ],
+          "template": "see also"
+        }
+      ],
       "references": [
         {
           "last": "Cambanis",
@@ -2958,6 +3005,55 @@
           "issn": "0362-4331",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "12 November 2017",
+          "title": "Lebanese president presses Saudi to say why Hariri has not returned",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/us-lebanon-politics-aoun/lebanon-president-calls-on-riyadh-to-clarify-reasons-stopping-hariri-return-idUSKBN1DB0ET",
+          "accessdate": "15 November 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Narayan",
+          "first": "Chandrika",
+          "title": "Lebanese Prime Minister Saad Hariri resigns",
+          "work": "CNN",
+          "url": "http://edition.cnn.com/2017/11/04/middleeast/lebanese-prime-minister-saad-hariri-resigns/index.html",
+          "accessdate": "4 November 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "4 November 2017",
+          "title": "Lebanon's prime minister just resigned 'over plot to target his life'",
+          "work": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/middle-east/lebanon-prime-minister-saad-hariri-resignation-resigns-quits-future-movement-surprise-latest-a8037266.html",
+          "url-status": "live",
+          "url-access": "subscription",
+          "accessdate": "4 November 2017",
+          "archive-url": "https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/news/world/middle-east/lebanon-prime-minister-saad-hariri-resignation-resigns-quits-future-movement-surprise-latest-a8037266.html",
+          "archive-date": "1 May 2022}}{{cbignore|undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "6 November 2017",
+          "title": "Saudi Arabia says Lebanon has declared war on it",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/us-lebanon-politics-saudi/saudi-arabia-says-lebanon-has-declared-war-on-it-idUSKBN1D62NQ",
+          "accessdate": "10 November 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "16 November 2017",
+          "title": "Lebanon-Saudi Crisis seem to be cooling down",
+          "url": "http://theindependent.in/lebanon-saudi-crisis-seem-to-be-cooling-down/",
+          "publisher": "theindependent.in",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -3037,11 +3133,29 @@
       ]
     },
     {
-      "title": "October 17 revolution",
+      "title": "October 17 revolution and Lemon doubly",
       "depth": 1,
       "paragraphs": [
         {
           "sentences": [
+            {
+              "text": "Large-scale antigovernmental demonstrations ignited in the country from 17 October."
+            },
+            {
+              "text": "Initially triggered in response to a rise in gas and tobacco prices as well as a new tax on messaging applications, the demonstrations quickly turned into a revolution against the stagnation of the economy, cabinet failure, unemployment, Lebanon's sectarian and hereditary political system, corruption and the government's inability to provide essential services such as water, electricity and sanitation, involving hundreds of thousands of people from every region and sect of the country.",
+              "links": [
+                {
+                  "text": "hereditary",
+                  "type": "internal",
+                  "page": "Za'im system"
+                },
+                {
+                  "text": "government's",
+                  "type": "internal",
+                  "page": "Council of Ministers of Lebanon"
+                }
+              ]
+            },
             {
               "text": "President Michel Aoun addressed the population on 24 October, stating his willingness to hold a dialogue with the protesters and find the best solution forward."
             },
@@ -3124,6 +3238,34 @@
       ],
       "references": [
         {
+          "date": "2019-11-07",
+          "title": "Lebanon protests: How WhatsApp tax anger revealed a much deeper crisis",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/world-middle-east-50293636",
+          "access-date": "2022-02-16",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2019-12-12",
+          "title": "L'insurrection au Liban : révolution, unité et crise économique",
+          "url": "https://lvsl.fr/linsurrection-au-liban-revolution-unite-et-crise-economique/",
+          "access-date": "2022-02-16",
+          "website": "lvsl.fr - Tout reconstruire, tout réinventer",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "20 October 2019",
+          "title": "Hundreds of thousands in Lebanon’s biggest protest for years; PM promises reform",
+          "work": "Times of Israel",
+          "url": "https://www.timesofisrael.com/tens-of-thousands-take-to-streets-as-lebanon-protests-enter-4th-day/",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "date": "24 October 2019",
           "title": "'I am waiting for you': Lebanon's Aoun invites protesters to talk",
           "work": "aljazeera.com",
@@ -3160,7 +3302,7 @@
       ]
     },
     {
-      "title": "Hassan Diab cabinet",
+      "title": "Hassan Diab cabinet and premiership vacuume",
       "depth": 2,
       "paragraphs": [
         {
@@ -3202,9 +3344,13 @@
             },
             {
               "text": "The marketing campaign by the authoritative powers around the new cabinet were mired by supposed untruths such as Diab claiming to have met reformist representatives of the revolution but turned out to be regime supporters or the regime using the term \"techno-political\" to describe the new cabinet in order to justify the majority partisan appointments."
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "On 10 August 2020, the government resigned following public anger over the 2020 Beirut explosions on 4 August but continues to govern as a caretaker government.",
+              "text": "On 10 August 2020, the government resigned following public anger over the 2020 Beirut explosions on 4 August but continued to govern as a caretaker government.",
               "links": [
                 {
                   "text": "2020 Beirut explosions",
@@ -3212,6 +3358,43 @@
                   "page": "2020 Beirut explosions"
                 }
               ]
+            },
+            {
+              "text": "Aoun appointed Moustapha Adib as prime minister designate on August 31 to succeed Diab.",
+              "links": [
+                {
+                  "text": "Moustapha Adib",
+                  "type": "internal",
+                  "page": "Mustapha Adib (diplomat)"
+                }
+              ]
+            },
+            {
+              "text": "The latter renounced to form a government on September 26, 2020, because of the dissensions between political parties concerning the attribution of the ministries."
+            },
+            {
+              "text": "Saad Hariri later announced on October that he was “definitely a candidate” for the formation of a new government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saad Hariri"
+                }
+              ]
+            },
+            {
+              "text": "He was again appointed President of the Council of Ministers after binding parliamentary consultations led by Michel Aoun."
+            },
+            {
+              "text": "On March 6, 2021, while Saad Hariri has still not managed to form a government, Diab denounces the situation of political and economic crisis and threatens to stop expediting current affairs by leaving office immediately.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saad Hariri"
+                }
+              ]
+            },
+            {
+              "text": "In conflict with Aoun concerning the distribution of ministerial posts, Saad Hariri gave up on a government formation on July 15, 2021."
             }
           ]
         }
@@ -3303,6 +3486,60 @@
           "url": "https://www.france24.com/en/20200122-scepticism-over-lebanon-s-technocratic-cabinet",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Who is Mustapha Adib, Lebanon's new prime minister?",
+          "url": "http://www.middleeasteye.net/news/lebanon-prime-minister-who-is-mustapha-adib",
+          "access-date": "2022-10-08",
+          "website": "Middle East Eye",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-09-26",
+          "title": "Liban : le Premier ministre désigné, Moustapha Adib, renonce à former un nouveau gouvernement",
+          "url": "https://information.tv5monde.com/info/liban-le-premier-ministre-designe-moustapha-adib-renonce-former-un-nouveau-gouvernement-376741",
+          "access-date": "2022-10-08",
+          "website": "TV5MONDE",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hariri says he is 'definitely a candidate' for Lebanon's PM {{!}}",
+          "url": "https://thearabweekly.com/hariri-says-he-definitely-candidate-lebanons-pm",
+          "access-date": "2020-10-27",
+          "website": "AW",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "149 على تكليف الحريري",
+          "url": "http://www.elnashra.com/news/show/1492176/149-%D8%B9%D9%84%D9%89-%D8%AA%D9%83%D9%84%D9%8A%D9%81-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1%D9%8A",
+          "access-date": "2021-03-20",
+          "website": "Elnashra News",
+          "language": "ar",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "15 July 2021",
+          "title": "Lebanon PM-designate steps down after months of deadlock",
+          "url": "https://ca.finance.yahoo.com/news/lebanon-pm-designate-steps-down-133950108.html",
+          "access-date": "15 July 2021",
+          "work": "Yahoo! Finance",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "15 Jul 2021",
+          "title": "Lebanon’s PM-designate Saad Hariri resigns as crisis escalates",
+          "work": "Aljazeera",
+          "url": "https://www.aljazeera.com/news/2021/7/15/lebanon-pm-designate-saad-hariri-resigns-as-crisis-escalates",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -3381,7 +3618,7 @@
               ]
             },
             {
-              "text": "President Michel Aoun accepted the resignation of the government and the Prime Minister, and asked the government to stay on in a caretaker capacity until a new cabinet is formed.",
+              "text": "Michel Aoun accepted the resignation of the government and the Prime Minister, and asked the government to stay on in a caretaker capacity until a new cabinet is formed.",
               "links": [
                 {
                   "text": "caretaker",
@@ -3389,6 +3626,9 @@
                   "page": "Caretaker government"
                 }
               ]
+            },
+            {
+              "text": "During his address after the 1st year commemoration of the blast, Aoun stubbled in his speech after mistakenly says the phrase 'Lemon doubly' which was used as a way of mockery ever since."
             }
           ]
         }
@@ -3425,6 +3665,16 @@
           "archive-date": "13 September 2020",
           "access-date": "10 August 2020",
           "website": "Al Jazeera",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-08-06",
+          "title": "‘Lemon doubly’: Lebanese president fumbles speech on Beirut blast memorial day",
+          "url": "https://arab.news/29vqn",
+          "access-date": "2022-10-08",
+          "website": "Arab News",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
