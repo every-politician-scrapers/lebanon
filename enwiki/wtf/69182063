@@ -138,17 +138,20 @@
             "links": [
               {
                 "type": "internal",
+                "page": "Kfarshima"
+              },
+              {
+                "type": "internal",
                 "page": "Lebanon"
               }
             ]
           },
           "party": {
-            "text": "Independent",
+            "text": "Free Patriotic Movement",
             "links": [
               {
-                "text": "Independent",
                 "type": "internal",
-                "page": "Independent politician"
+                "page": "Free Patriotic Movement"
               }
             ]
           }
