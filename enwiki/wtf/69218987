@@ -102,6 +102,10 @@
           "nationality": {
             "text": "Lebanese"
           },
+          "birth_date": {
+            "text": "1979",
+            "number": 1979
+          },
           "birth_place": {
             "text": "Beirut, Lebanon"
           }
