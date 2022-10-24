@@ -346,6 +346,7 @@
       "references": [
         {
           "title": "Everything You Want To Know About Riad Salameh",
+          "date": "April 29, 2020",
           "url": "https://www.the961.com/everything-to-know-riad-salameh/",
           "publisher": "the961.com",
           "accessdate": "12 August 2020",
@@ -775,6 +776,7 @@
           "url": "https://www.thenationalnews.com/business/economy/lebanon-s-embattled-central-bank-governor-denies-ponzi-scheme-and-won-t-resign-1.1074347",
           "access-date": "2020-11-03",
           "website": "The National",
+          "date": "September 8, 2020",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -817,6 +819,7 @@
         {
           "url": "https://danazzi.com/2018/10/08/dissecting-deposits-the-case-of-lebanons-missing-70-billion/",
           "title": "Dissecting deposits: The case of Lebanon's missing $70 Billion",
+          "date": "October 8, 2018",
           "access-date": "October 8, 2018",
           "template": "citation",
           "type": "web"
@@ -824,6 +827,7 @@
         {
           "url": "https://danazzi.com/2018/10/22/dollars-the-latest-lebanese-vegetable/",
           "title": "Dollars — The Latest Lebanese Vegetable",
+          "date": "October 22, 2018",
           "access-date": "21 October 2020",
           "template": "citation",
           "type": "web"
@@ -910,10 +914,11 @@
         {
           "url": "https://www.reuters.com/article/lebanon-crisis-cenbank-salameh-idUSL5N2ER3ZH",
           "title": "Lebanese judge orders 'protective freeze' on assets of c.bank governor",
+          "newspaper": "Reuters",
           "date": "July 20, 2020",
           "via": "www.reuters.com",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.france24.com/fr/moyen-orient/20200130-riad-salam%C3%A9-sur-france-24-le-syst%C3%A8me-financier-du-liban-peut-red%C3%A9marrer",
@@ -1015,7 +1020,7 @@
           "type": "web"
         },
         {
-          "title": "Lebanon’s Central Bank Chief Vanishes as Corruption Probe Mounts",
+          "title": "Lebanon's Central Bank Chief Vanishes as Corruption Probe Mounts",
           "url": "https://www.voanews.com/a/lebanon-s-central-bank-chief-vanishes-as-corruption-probe-mounts-/6444473.html",
           "access-date": "2022-06-22",
           "website": "VOA",
