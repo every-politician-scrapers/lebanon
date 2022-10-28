@@ -174,7 +174,7 @@
         {
           "sentences": [
             {
-              "text": "In exile, Aoun founded the Free Patriotic Movement, and advocated for the Syria Accountability Act by testifying in Congress.",
+              "text": "In exile, Aoun founded the Free Patriotic Movement, and advocated for the Syria Accountability Act by testifying in the US Congress.",
               "links": [
                 {
                   "type": "internal",
@@ -360,6 +360,10 @@
             "lang"
           ],
           "template": "ipa-apc"
+        },
+        {
+          "date": "October 2022",
+          "template": "when"
         }
       ],
       "infoboxes": [
