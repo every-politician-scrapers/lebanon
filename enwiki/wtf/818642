@@ -28,8 +28,13 @@
         {
           "sentences": [
             {
-              "text": "Michel Naim Aoun (ميشال نعيم عون ; born 30 September 1933) is a Lebanese politician and former military general who has served as the President of Lebanon since 31 October 2016.",
+              "text": "Michel Naim Aoun (ميشال نعيم عون ; born 30 September 1933) is a Lebanese politician and former military general who served as the President of Lebanon from 31 October 2016 until 30 October 2022.",
               "links": [
+                {
+                  "text": "Lebanese",
+                  "type": "internal",
+                  "page": "Lebanon"
+                },
                 {
                   "type": "internal",
                   "page": "President of Lebanon"
@@ -313,7 +318,7 @@
       ],
       "templates": [
         {
-          "description": "13th President of Lebanon",
+          "description": "13th President of Lebanon from 2016 to 2022",
           "template": "short description"
         },
         {
@@ -340,6 +345,29 @@
           "template": "family name hatnote"
         },
         {
+          "list": [
+            "Tammam Salam",
+            "Saad Hariri",
+            "Hassan Diab",
+            "Najib Mikati"
+          ],
+          "template": "ubl"
+        },
+        {
+          "list": [
+            "13 October 1990*",
+            "Acting, disputed"
+          ],
+          "template": "br list"
+        },
+        {
+          "list": [
+            "28th Prime Minister of Lebanon",
+            "Disputed"
+          ],
+          "template": "br list"
+        },
+        {
           "year": "1933",
           "month": "9",
           "day": "30",
@@ -350,6 +378,13 @@
           "spouse": "Nadia El-Chami",
           "from": "1968",
           "template": "marriage"
+        },
+        {
+          "list": [
+            "*Aoun's presidency was disputed by Selim Hoss, René Moawad and Elias Hrawi.",
+            "**Aoun's premiership was disputed by Selim Hoss."
+          ],
+          "template": "ubl"
         },
         {
           "template": "michel aoun"
@@ -402,28 +437,13 @@
             ]
           },
           "primeminister": {
-            "text": "Tammam Salam Saad Hariri Hassan Diab Najib Mikati",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tammam Salam"
-              },
-              {
-                "type": "internal",
-                "page": "Saad Hariri"
-              },
-              {
-                "type": "internal",
-                "page": "Hassan Diab"
-              },
-              {
-                "type": "internal",
-                "page": "Najib Mikati"
-              }
-            ]
+            "text": "Tammam Salam\n\nSaad Hariri\n\nHassan Diab\n\nNajib Mikati"
           },
           "term_start": {
             "text": "31 October 2016"
+          },
+          "term_end": {
+            "text": "30 October 2022"
           },
           "predecessor": {
             "text": "Tammam Salam (Acting)",
@@ -433,6 +453,9 @@
                 "page": "Tammam Salam"
               }
             ]
+          },
+          "successor": {
+            "text": "Vacant"
           },
           "primeminister1": {
             "text": "Himself",
@@ -444,9 +467,6 @@
           },
           "term_start1": {
             "text": "22 September 1988"
-          },
-          "term_end1": {
-            "text": "13 October 1990* Acting, disputed"
           },
           "predecessor1": {
             "text": "Amine Gemayel",
@@ -463,15 +483,6 @@
               {
                 "type": "internal",
                 "page": "Elias Hrawi"
-              }
-            ]
-          },
-          "office2": {
-            "text": "28th Prime Minister of Lebanon Disputed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Lebanon"
               }
             ]
           },
@@ -663,7 +674,7 @@
             ]
           },
           "footnotes": {
-            "text": "*Aoun's presidency was disputed by Selim Hoss, René Moawad and Elias Hrawi.\n**Aoun's premiership was disputed by Selim Hoss."
+            "text": "*Aoun's presidency was disputed by Selim Hoss, René Moawad and Elias Hrawi.\n\n**Aoun's premiership was disputed by Selim Hoss."
           },
           "caption": {
             "text": "Aoun in 2022"
@@ -672,11 +683,17 @@
             "text": "Michel Aoun Signature.png"
           },
           "nickname": {
-            "text": "Jebrayel, Raad, The General"
+            "text": "Jebrayel, Raad The General"
           }
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "date": "2016-10-31",
           "title": "Lebanon has ended more than two years of political gridlock by electing new president",
@@ -706,11 +723,11 @@
           "type": "web"
         },
         {
-          "date": "2020-09-14",
-          "title": "بشير الجميل وميشال عون والاتّجاه المعاكس – جورج العاقوري",
-          "url": "https://www.nidaalwatan.com/article/29599-%D8%A8%D8%B4%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D9%84-%D9%88%D9%85%D9%8A%D8%B4%D8%A7%D9%84-%D8%B9%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%83%D8%B3",
-          "access-date": "2021-09-11",
-          "website": "نداء الوطن",
+          "date": "2022-10-30",
+          "title": "Lebanon president leaves with no replacement, crisis deepens",
+          "url": "https://apnews.com/article/middle-east-business-lebanon-beirut-310c89034067780d3810b7f04e5fbf9a",
+          "website": "AP NEWS",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }
@@ -800,6 +817,11 @@
             {
               "text": "He was serving during the failed coup of the Syrian Social Nationalist Party in 1961, and was decorated for that.",
               "links": [
+                {
+                  "text": "failed coup",
+                  "type": "internal",
+                  "page": "1961 Lebanese coup d'état attempt"
+                },
                 {
                   "text": "Syrian Social Nationalist Party",
                   "type": "internal",
@@ -2910,7 +2932,7 @@
       ]
     },
     {
-      "title": "Presidency (2016–present)",
+      "title": "Presidency (2016–2022)",
       "depth": 0
     },
     {
@@ -3306,7 +3328,7 @@
       ]
     },
     {
-      "title": "Hassan Diab cabinet and premiership vacuume",
+      "title": "Hassan Diab cabinet and premiership vacuum",
       "depth": 2,
       "paragraphs": [
         {
@@ -3632,7 +3654,7 @@
               ]
             },
             {
-              "text": "During his address after the 1st year commemoration of the blast, Aoun stubbled in his speech after mistakenly says the phrase 'Lemon doubly' which was used as a way of mockery ever since."
+              "text": "During his address after the 1st year commemoration of the blast, Aoun stumbled in his speech after he mistakenly said the phrase 'Lemon doubly' which was used as a way of mockery ever since."
             }
           ]
         }
@@ -3709,6 +3731,34 @@
           "website": "AP NEWS",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Succession",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aoun's term ended in October 2022 after 6 years in office, with no successor designated."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Gebeily",
+          "first": "Maya",
+          "last2": "Bassam",
+          "first2": "Laila",
+          "date": "2022-10-30",
+          "title": "Aoun's presidency ends leaving power vacuum in crisis-hit Lebanon",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/president-aoun-leaves-office-lebanons-crisis-worsens-2022-10-30/",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -4292,11 +4342,12 @@
         },
         {
           "title": "President of Lebanon",
-          "years": "2016–present",
+          "years": "2016–2022",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "after": "Vacant",
+          "template": "s-aft"
         },
         {
           "template": "s-ppo"
