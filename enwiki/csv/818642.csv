@@ -1,6 +1,6 @@
 who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-818642,Q22001564,13th President of Lebanon,2016-10-31,,Q3514836,Tammam Salam (Acting),,,0
-818642,,,1988-09-22,"13 October 1990* Acting, disputed",Amine Gemayel,Amine Gemayel,Elias Hrawi,Elias Hrawi,1
-818642,Q14915225,28th Prime Minister of Lebanon Disputed,1988-09-22,13 October 1990*,Q2094707,Selim Hoss,Q2094707,Selim Hoss,2
+818642,Q22001564,13th President of Lebanon,2016-10-31,2022-10-30,Q3514836,Tammam Salam (Acting),,Vacant,0
+818642,,,1988-09-22,,Amine Gemayel,Amine Gemayel,Elias Hrawi,Elias Hrawi,1
+818642,,,1988-09-22,13 October 1990*,Q2094707,Selim Hoss,Q2094707,Selim Hoss,2
 818642,Members of the 2009–17 Lebanese Parliament,Member of Parliament,2005-04-20,2016-10-31,,,Chamel Roukoz,Chamel Roukoz,3
 818642,Commanders of the Lebanese Armed Forces,Commander of the Armed Forces,1984-06-23,1989-11-27,Ibrahim Tannous,Ibrahim Tannous,Q206479,Émile Lahoud,4
