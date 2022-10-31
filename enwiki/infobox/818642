@@ -4,12 +4,12 @@
   "awards": "OM, ONC",
   "office": "13th President of Lebanon",
   "term_start": "31 October 2016",
+  "term_end": "30 October 2022",
   "predecessor": "Tammam Salam (Acting)",
+  "successor": "Vacant",
   "term_start1": "22 September 1988",
-  "term_end1": "13 October 1990* Acting, disputed",
   "predecessor1": "Amine Gemayel",
   "successor1": "Elias Hrawi",
-  "office2": "28th Prime Minister of Lebanon Disputed",
   "term_start2": "22 September 1988",
   "term_end2": "13 October 1990*",
   "predecessor2": "Selim Hoss",
@@ -36,6 +36,6 @@
   "serviceyears": "1958–1991",
   "rank": "General",
   "battles": "Lebanese Civil War",
-  "footnotes": "*Aoun's presidency was disputed by Selim Hoss, René Moawad and Elias Hrawi.\n**Aoun's premiership was disputed by Selim Hoss.",
-  "nickname": "Jebrayel, Raad, The General"
+  "footnotes": "*Aoun's presidency was disputed by Selim Hoss, René Moawad and Elias Hrawi.\n\n**Aoun's premiership was disputed by Selim Hoss.",
+  "nickname": "Jebrayel, Raad The General"
 }
