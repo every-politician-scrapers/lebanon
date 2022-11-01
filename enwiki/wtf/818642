@@ -779,6 +779,16 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "cn"
+        },
+        {
+          "date": "October 2022",
+          "template": "cn"
+        }
+      ],
       "references": [
         {
           "url": "http://www.lebarmy.gov.lb/en/army/commanders/?10",
@@ -961,6 +971,24 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "cn"
+        },
+        {
+          "date": "October 2022",
+          "template": "cn"
+        },
+        {
+          "date": "October 2022",
+          "template": "cn"
+        },
+        {
+          "date": "October 2022",
+          "template": "cn"
         }
       ],
       "references": [
@@ -2519,6 +2547,12 @@
               "text": "This support increased his chances tremendously of getting elected president during the parliamentary session scheduled for 31 October."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "refimprove section"
         }
       ]
     },
