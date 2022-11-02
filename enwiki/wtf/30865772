@@ -41,6 +41,15 @@
               }
             },
             {
+              "text": "He also serves as the acting President of Lebanon as of October 2022 in his capacity as prime minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Lebanon"
+                }
+              ]
+            },
+            {
               "text": "He previously served as Prime Minister from June 2011 to February 2014 and from April to July 2005."
             },
             {
@@ -153,7 +162,7 @@
             "text": "Najib Mikati\nنجيب ميقاتي"
           },
           "image": {
-            "text": "File:Najib Mikati and May Mikati signing a book of condolence (cropped).jpg"
+            "text": "File:Najib Mikati portrait.jpg"
           },
           "office": {
             "text": "Prime Minister of Lebanon",
@@ -168,7 +177,7 @@
             "text": "10 September 2021"
           },
           "president": {
-            "text": "Michel Aoun",
+            "text": "Michel Aoun\nHimself (Acting)",
             "links": [
               {
                 "type": "internal",
@@ -280,6 +289,30 @@
             ]
           },
           "office3": {
+            "text": "President of Lebanon Acting",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Lebanon"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Himself"
+          },
+          "term_start3": {
+            "text": "31 October 2022"
+          },
+          "predecessor3": {
+            "text": "Michel Aoun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michel Aoun"
+              }
+            ]
+          },
+          "office4": {
             "text": "Minister of Public Works and Transport",
             "links": [
               {
@@ -289,13 +322,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "6 December 1998"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "26 October 2004"
           },
-          "president3": {
+          "president4": {
             "text": "Émile Lahoud",
             "links": [
               {
@@ -305,7 +338,7 @@
               }
             ]
           },
-          "primeminister3": {
+          "primeminister4": {
             "text": "Selim Hoss\n\nRafic Hariri",
             "links": [
               {
@@ -375,11 +408,24 @@
             "text": "http://www.najib-mikati.net/"
           },
           "caption": {
-            "text": "Mikati in 2022"
+            "text": "Mikati in 2014"
           }
         }
       ],
       "references": [
+        {
+          "last": "Houssari",
+          "first": "Najia",
+          "date": "31 October 2022",
+          "title": "Mikati’s makeshift Lebanese government to assume presidential powers",
+          "url": "https://www.arabnews.com/node/2191511/amp",
+          "url-status": "live",
+          "archive-date": "1 November 2022",
+          "access-date": "1 November 2022",
+          "website": "Arab News",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "last": "Mughal",
           "first": "Waqar",
