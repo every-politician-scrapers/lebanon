@@ -3781,12 +3781,41 @@
         {
           "sentences": [
             {
-              "text": "Aoun's term ended in October 2022 after 6 years in office, with no successor designated similar to his predecessor."
+              "text": "Aoun signed the government's resignation decree, a day before his six-year term officially ends, and Prime Minister Najib Mikati's government remains in office in a caretaker capacity which is unconstitutional since it goes against Aoun's request for the cabinet's step-down after numerous attempts failed to form a new cabinet.",
+              "links": [
+                {
+                  "text": "Najib Mikati's government",
+                  "type": "internal",
+                  "page": "Third Cabinet of Najib Mikati"
+                }
+              ]
+            },
+            {
+              "text": "His term officially ended in 31 October 2022 after 6 years in office, with no successor designated similarly to his predecessors."
             }
           ]
         }
       ],
       "references": [
+        {
+          "title": "President Aoun signs decree declaring Mikati's government as resigned",
+          "url": "https://www.mtv.com.lb/en/news/local/1319926/president-aoun-signs-decree-declaring-mikati-s-government-as-resigned",
+          "access-date": "2022-11-04",
+          "website": "MTV Lebanon",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-10-29",
+          "title": "Aoun leaves Lebanon presidential palace in style as term ends",
+          "url": "https://arab.news/nke48",
+          "access-date": "2022-11-04",
+          "website": "Arab News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "last": "Gebeily",
           "first": "Maya",

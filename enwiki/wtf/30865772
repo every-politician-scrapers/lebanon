@@ -358,8 +358,13 @@
             "text": "Tripoli, Lebanon",
             "links": [
               {
+                "text": "Tripoli",
                 "type": "internal",
                 "page": "Tripoli, Lebanon"
+              },
+              {
+                "type": "internal",
+                "page": "Lebanon"
               }
             ]
           },
@@ -1135,12 +1140,36 @@
         {
           "sentences": [
             {
-              "text": "In February 2022, Patriarch Bechara Boutros Al-Rai, Lebanese senior Christian cleric, called on the Mikati government to \"agree with the IMF on a plan that saves Lebanon from collapse\".",
+              "text": "In February 2022, Patriarch Bechara Boutros Al-Rai, Lebanese senior Christian cleric and head of the Maronite Church, called on the Mikati government to \"agree with the IMF on a plan that saves Lebanon from collapse\".",
               "links": [
                 {
                   "text": "Bechara Boutros Al-Rai",
                   "type": "internal",
                   "page": "Bechara Boutros al-Rahi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was again name prime minister designate 23 June 2022 with 54 votes against Nawaf Salam's 28 to form a new cabinet until the remainder of President Michel Aoun's term."
+            },
+            {
+              "text": "However, Mikati and Aoun failed to agree on a new government numerous times."
+            },
+            {
+              "text": "President Michel Aoun signed the government's resignation decree, a day before his six-year term officially ended, and Najib Mikati's government remained in office in a caretaker capacity, however Aoun’s move was deemed as  of no effect by the Lebanese Parliament in a session held on November 3 since the government was already considered resigned following parliamentary elections on May 15.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Michel Aoun"
+                },
+                {
+                  "text": "Najib Mikati's government",
+                  "type": "internal",
+                  "page": "Third Cabinet of Najib Mikati"
                 }
               ]
             }
@@ -1212,6 +1241,46 @@
           "access-date": "2022-02-13",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "June 2022",
+          "first": "Naharnet Newsdesk 23",
+          "last2": "17:15",
+          "title": "Mikati named PM-designate with 54 votes as Salam gets 25",
+          "url": "http://www.naharnet.com/stories/en/290665",
+          "access-date": "2022-11-04",
+          "website": "Naharnet",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "President Aoun signs decree declaring Mikati's government as resigned",
+          "url": "https://www.mtv.com.lb/en/news/local/1319926/president-aoun-signs-decree-declaring-mikati-s-government-as-resigned",
+          "access-date": "2022-11-04",
+          "website": "MTV Lebanon",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-10-29",
+          "title": "Aoun leaves Lebanon presidential palace in style as term ends",
+          "url": "https://arab.news/nke48",
+          "access-date": "2022-11-04",
+          "website": "Arab News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "4 November 2022",
+          "title": "Lebanon: Parliament Asks Govt to Continue in Caretaker Capacity amid Presidential Vacuum",
+          "url": "https://english.aawsat.com/home/article/3968961/lebanon-parliament-asks-govt-continue-caretaker-capacity-amid-presidential",
+          "url-status": "live",
+          "access-date": "4 November 2022",
+          "website": "Asharq Al-Awsat",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Chehayeb",
