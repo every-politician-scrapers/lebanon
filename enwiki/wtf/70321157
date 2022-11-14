@@ -20,12 +20,8 @@
         {
           "sentences": [
             {
-              "text": "Abbas Salim al-Halabi (born 1948) is a Lebanese politician from the Progressive Socialist Party currently serving as Minister of Education in the Third Cabinet of Najib Mikati.",
+              "text": "Abbas Salim al-Halabi (born 1948) is a Lebanese politician currently serving as Minister of Education in the Third Cabinet of Najib Mikati.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Progressive Socialist Party"
-                },
                 {
                   "text": "Minister of Education",
                   "type": "internal",
