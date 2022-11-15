@@ -1,0 +1,10 @@
+name: Generate badge data
+
+on:
+  schedule:
+    - cron:  '03 10 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  scheduled:
+    uses: every-politician-scrapers/shared/.github/workflows/badges.yml@main
