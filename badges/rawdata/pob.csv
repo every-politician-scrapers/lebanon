@@ -1,0 +1,103 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q108504530,Henri Khoury,,,,,,false,,,,
+Q108504531,Abdallah Bou Habib,,,,,,false,,,,
+Q108504532,Maurice Sleem,NormalRank,Q3055952,Kfarshima,true,true,false,,,,
+Q108504533,Bassam Mawlawi,,,,,,false,,,,
+Q108504534,Amin Salam,,,,,,false,,,,
+Q108507913,Saadeh Al Shami,,,,,,false,,,,
+Q108508019,Walid Fayyad,,,,,,false,,,,
+Q108508021,Ali Hamieh,NormalRank,Q12221510,Taraya,true,true,false,,,,
+Q108508022,Abbas Halabi,NormalRank,Q3820,Beirut,true,true,false,,,,
+Q108508023,Firas Abiad,,,,,,false,,,,
+Q108508025,Moustafa Bayram,,,,,,false,,,,
+Q108508033,Walid Nassar,NormalRank,Q173532,Byblos,true,true,true,false,false,false,true
+Q108508043,Issam Sharafeddine,NormalRank,Q26338,Aley,true,true,true,false,false,false,true
+Q108508044,Georges Kallas,,,,,,false,,,,
+Q108508045,Nasser Yassine,,,,,,false,,,,
+Q108508046,Abbas Al Haj Hassan,NormalRank,Q12218849,"Chaat, Lebanon",true,true,false,,,,
+Q108508047,Mohammad Mortada,,,,,,false,,,,
+Q108508048,George Bouchikian,NormalRank,Q26569,Zahlé,true,true,true,false,true,false,false
+Q108508058,Johnny Corm,,,,,,false,,,,
+Q108524635,Najla Riachi,,,,,,false,,,,
+Q108524708,Hector Hajjar,,,,,,false,,,,
+Q111685992,Ziad Makary,,,,,,false,,,,
+Q12210092,Khalid Ziyada,NormalRank,Q168954,Tripoli,true,true,true,true,false,false,false
+Q1250858,Dory Chamoun,NormalRank,Q613943,Deyr el-Qamar,true,true,true,false,false,false,true
+Q1329138,Elias Murr,NormalRank,Q730507,Bteghrine,true,true,true,false,false,false,true
+Q1395651,Nayla Moawad,NormalRank,Q181167,Bsharri,true,true,true,false,false,false,true
+Q15047048,Salim Sayegh,,,,,,false,,,,
+Q1738970,Michel Murr,NormalRank,Q730507,Bteghrine,true,true,true,false,false,false,true
+Q192778,Rafic Hariri,NormalRank,Q163490,Sidon,true,true,true,false,false,false,true
+Q20383134,Alain Hakim,NormalRank,Q822,Lebanon,true,false,true,false,false,false,true
+Q20423714,Nassif Hitti,NormalRank,Q168954,Tripoli,true,true,false,,,,
+Q206479,Émile Lahoud,NormalRank,Q2038347,Baabdat,true,true,true,false,false,false,true
+Q2081667,Raymond Audi,NormalRank,Q163490,Sidon,true,true,true,false,false,false,true
+Q2094707,Selim al-Hoss,NormalRank,Q3820,Beirut,true,true,true,false,false,false,true
+Q21005151,Elias Bou Saab,NormalRank,Q2737478,Dhour El Choueir,true,true,true,false,false,true,true
+Q251878,Muhammad Baydoun,NormalRank,Q33026909,Bachoura,true,true,true,false,false,false,true
+Q2737847,Gebran Bassil,NormalRank,Q3285145,Batroun,true,true,true,false,false,true,true
+Q2820965,Abdul Rahim Mourad,NormalRank,Q2621565,Western Beqaa District,true,true,true,false,false,false,true
+Q2821159,Abdel Latif El Zein,NormalRank,Q12235683,Kfar Remen,true,true,true,false,false,false,true
+Q2829137,Akram Chehayeb,NormalRank,Q26338,Aley,true,true,true,false,false,false,true
+Q2829473,Alaeddine Terro,NormalRank,Q2884574,Barja,true,true,true,false,false,false,true
+Q2829473,Alaeddine Terro,NormalRank,Q2884574,Barja,true,true,true,false,false,true,true
+Q2836246,Ali Hassan Khalil,NormalRank,Q1075081,Khiam,true,true,true,false,false,false,true
+Q2943722,Ghazi Zaiter,,,,,,false,,,,
+Q296771,Saad Hariri,NormalRank,Q3692,Riyadh,true,true,true,true,false,false,true
+Q3047466,Edgar Maalouf,NormalRank,Q3820,Beirut,true,true,false,,,,
+Q3047466,Edgar Maalouf,NormalRank,Q822,Lebanon,true,false,true,false,false,false,true
+Q3066903,Farid Makari,NormalRank,Q4119042,Enfeh,true,true,true,false,false,false,true
+Q3102522,Georges Corm,NormalRank,Q87,Alexandria,true,true,false,,,,
+Q314263,Fouad Siniora,NormalRank,Q163490,Sidon,true,true,true,false,false,false,true
+Q3143487,Hussein Hajj Hassan,NormalRank,Q202322,Beqaa Valley,true,false,true,false,false,false,true
+Q3173769,Jean Obeid,NormalRank,Q4733497,Alma,true,true,true,false,false,false,true
+Q3178636,Jihad Azour,NormalRank,Q822,Lebanon,true,false,true,false,false,false,true
+Q318493,Najib Mikati,NormalRank,Q168954,Tripoli,true,true,true,false,false,false,true
+Q3196030,Khalil Hraoui,NormalRank,Q26569,Zahlé,true,true,false,,,,
+Q319983,Mahmoud Hammoud,NormalRank,Q2916160,Kafr Kila,true,true,false,,,,
+Q3293349,Mario Aoun,NormalRank,Q1158931,Damour,true,true,true,false,false,false,true
+Q330377,Yacoub Sarraf,,,,,,false,,,,
+Q330587,Ghassan Salamé,NormalRank,Q99646988,Kfardébiane,true,false,true,false,true,false,false
+Q3318922,Mohamad Chatah,NormalRank,Q3579,Tripoli,true,true,true,false,false,false,true
+Q3318961,Mohammad Safadi,NormalRank,Q168954,Tripoli,true,true,false,,,,
+Q3319041,Mohamad Jawad Khalifeh,NormalRank,Q822,Lebanon,true,false,true,false,false,false,true
+Q3362882,Riad Salameh,NormalRank,Q571757,Antelias,true,true,true,false,false,false,true
+Q3384605,Pierre Daccache,NormalRank,Q3125532,Hadath,true,true,true,false,true,false,false
+Q339999,Ali Qanso,NormalRank,Q5300220,Doueir,true,true,true,false,false,false,true
+Q3420579,Raya Haffar El Hassan,NormalRank,Q168954,Tripoli,true,true,false,,,,
+Q3435215,Robert Ghanem,NormalRank,Q12219989,Saghbine,true,true,true,false,false,false,true
+Q3455975,Fayez Ghosn,NormalRank,Q2748858,Kousba,true,true,true,false,false,true,true
+Q3470778,Sami Haddad,NormalRank,Q3820,Beirut,true,true,true,false,false,true,true
+Q3470835,Samir Frangieh,NormalRank,Q25739,Zgharta,true,true,true,false,false,false,true
+Q3514836,Tammam Salam,NormalRank,Q3820,Beirut,true,true,true,false,false,false,true
+Q3515658,Tarek Mitri,NormalRank,Q168954,Tripoli,true,true,true,false,false,false,true
+Q3566888,Wael Abou Faour,NormalRank,Q594026,Hasbaya,true,true,true,false,false,false,true
+Q3572943,Youssef Khalil,NormalRank,Q82070,Tyre,true,true,true,false,false,true,true
+Q363392,Michel Aoun,PreferredRank,Q915829,Haret Hreik,true,true,true,false,false,false,true
+Q396606,Omar Karami,NormalRank,Q139708,French Mandate for Syria and the Lebanon,true,false,true,false,false,false,true
+Q4165335,George Kordahi,NormalRank,Q3064667,Faitroun,true,true,true,false,false,false,true
+Q4352658,Nicholas Nahas,NormalRank,Q168954,Tripoli,true,true,false,,,,
+Q4695381,Ahmad Karami,NormalRank,Q168954,Tripoli,true,true,true,false,false,true,true
+Q4724634,Ali Al Shami,NormalRank,Q6160266,Jarjouh,true,true,true,false,false,true,true
+Q5555850,Ghassan Hasbani,NormalRank,Q3820,Beirut,true,true,true,false,false,false,true
+Q56640421,Sami Fatfat,NormalRank,Q12217752,Sir Ed Danniyeh,true,true,true,false,false,true,true
+Q5679624,Hassan Diab,NormalRank,Q3820,Beirut,true,true,true,false,false,true,true
+Q657217,Issam Abu Jamra,NormalRank,Q822,Lebanon,true,false,true,false,false,false,true
+Q67846940,Taymur Jumblatt,,,,,,false,,,,
+Q704220,Nabih Berri,NormalRank,Q844878,Bo,true,true,true,false,false,false,true
+Q7154798,Paula Yacoubian,NormalRank,Q3820,Beirut,true,true,false,,,,
+Q7409525,Samir Mouqbel,,,,,,false,,,,
+Q743555,Marwan Hamadeh,NormalRank,Q822,Lebanon,true,false,true,false,false,false,true
+Q764478,Issam Fares,NormalRank,Q822,Lebanon,true,false,true,false,false,true,true
+Q83428148,Ghazi Wazni,NormalRank,Q145355,Bint Jbeil,true,true,false,,,,
+Q83435066,Manal Abdel Samad,NormalRank,Q4747203,Ammatour,true,true,true,false,true,false,false
+Q83475144,Zeina Akar,NormalRank,Q822,Lebanon,true,false,true,false,false,false,true
+Q83475213,Mohammed Fahmi,NormalRank,Q3820,Beirut,true,true,false,,,,
+Q83484387,Tarek Majzoub,NormalRank,Q163490,Sidon,true,true,true,false,false,true,true
+Q83494020,Imad Hoballah,NormalRank,Q6398704,Kfarmelki,true,true,false,,,,
+Q96002127,Raoul Nehme,,,,,,false,,,,
+Q97054975,Rami Mortada,,,,,,false,,,,
+Q98067735,Charbel Wehbe,NormalRank,Q12222307,Aqoura,true,true,true,true,false,false,false
+Q57427,Michel Suleiman,NormalRank,Q2743162,Amsheet,true,true,true,false,false,false,true
+Q58177,Fawzi Salloukh,NormalRank,Q822,Lebanon,true,false,true,false,false,false,true
+Q58274,Adnan Mansour,NormalRank,Q2928491,Bourj el-Barajneh,true,true,false,,,,
