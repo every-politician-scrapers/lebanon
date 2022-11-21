@@ -1231,7 +1231,6 @@
           "type": "web"
         },
         {
-          "last": "Reuters",
           "date": "2022-02-09",
           "title": "Lebanese Maronite Patriarch urges IMF deal, elections on time",
           "language": "en",
@@ -1242,9 +1241,7 @@
           "type": "news"
         },
         {
-          "last": "June 2022",
-          "first": "Naharnet Newsdesk 23",
-          "last2": "17:15",
+          "date": "June 23, 2022",
           "title": "Mikati named PM-designate with 54 votes as Salam gets 25",
           "url": "http://www.naharnet.com/stories/en/290665",
           "access-date": "2022-11-04",
@@ -1335,12 +1332,11 @@
       ],
       "references": [
         {
-          "last": "Welle (www.dw.com)",
-          "first": "Deutsche",
-          "title": "Lebanon's former PM denies corruption charges {{!}} DW {{!}} 23.10.2019",
+          "title": "Lebanon's former PM denies corruption charges",
+          "date": "2019-10-23",
           "url": "https://www.dw.com/en/lebanons-former-pm-denies-corruption-charges/a-50950966",
           "access-date": "2021-07-26",
-          "website": "DW.COM",
+          "website": "Deutsche Welle",
           "language": "en-GB",
           "template": "citation",
           "type": "web"
