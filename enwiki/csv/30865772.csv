@@ -1,6 +1,6 @@
 who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-30865772,Q14915225,Prime Minister of Lebanon,2021-09-10,,Q5679624,Hassan Diab,,,0
-30865772,,,2011-06-13,2014-02-15,Q296771,Saad Hariri,Q3514836,Tammam Salam,1
-30865772,,,2005-04-19,2005-07-19,Q396606,Omar Karami,Q314263,Fouad Siniora,2
-30865772,Q22001564,President of Lebanon Acting,2022-10-31,,Q363392,Michel Aoun,,,3
+30865772,Q22001564,Acting President of Lebanon,2022-10-31,,Q363392,Michel Aoun,,,0
+30865772,Q14915225,Prime Minister of Lebanon,2021-09-10,,Q5679624,Hassan Diab,,,1
+30865772,,,2011-06-13,2014-02-15,Q296771,Saad Hariri,Q3514836,Tammam Salam,2
+30865772,,,2005-04-19,2005-07-19,Q396606,Omar Karami,Q314263,Fouad Siniora,3
 30865772,Ministry of Public Works and Transport (Lebanon),Minister of Public Works and Transport,1998-12-06,2004-10-26,,,,,4
