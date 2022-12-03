@@ -164,7 +164,7 @@
           "image": {
             "text": "File:Najib Mikati portrait.jpg"
           },
-          "office": {
+          "office1": {
             "text": "Prime Minister of Lebanon",
             "links": [
               {
@@ -173,10 +173,10 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "10 September 2021"
           },
-          "president": {
+          "president1": {
             "text": "Michel Aoun\nHimself (Acting)",
             "links": [
               {
@@ -185,7 +185,7 @@
               }
             ]
           },
-          "deputy": {
+          "deputy1": {
             "text": "Saadeh Al Shami",
             "links": [
               {
@@ -194,7 +194,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Hassan Diab",
             "links": [
               {
@@ -203,13 +203,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "13 June 2011"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "15 February 2014"
           },
-          "president1": {
+          "president2": {
             "text": "Michel Suleiman",
             "links": [
               {
@@ -218,7 +218,7 @@
               }
             ]
           },
-          "deputy1": {
+          "deputy2": {
             "text": "Samir Mouqbel",
             "links": [
               {
@@ -227,7 +227,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Saad Hariri",
             "links": [
               {
@@ -236,7 +236,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Tammam Salam",
             "links": [
               {
@@ -245,13 +245,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "19 April 2005"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "19 July 2005"
           },
-          "president2": {
+          "president3": {
             "text": "Émile Lahoud",
             "links": [
               {
@@ -261,7 +261,7 @@
               }
             ]
           },
-          "deputy2": {
+          "deputy3": {
             "text": "Elias Murr",
             "links": [
               {
@@ -270,7 +270,7 @@
               }
             ]
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Omar Karami",
             "links": [
               {
@@ -279,7 +279,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Fouad Siniora",
             "links": [
               {
@@ -288,8 +288,8 @@
               }
             ]
           },
-          "office3": {
-            "text": "President of Lebanon Acting",
+          "office": {
+            "text": "Acting President of Lebanon",
             "links": [
               {
                 "type": "internal",
@@ -297,13 +297,13 @@
               }
             ]
           },
-          "primeminister3": {
+          "primeminister": {
             "text": "Himself"
           },
-          "term_start3": {
+          "term_start": {
             "text": "31 October 2022"
           },
-          "predecessor3": {
+          "predecessor": {
             "text": "Michel Aoun",
             "links": [
               {
