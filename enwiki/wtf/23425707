@@ -578,12 +578,18 @@
         {
           "sentences": [
             {
-              "text": "In a 2009 interview with Executive magazine, when asked when will Lebanon feel the impacts of the global financial crisis, Salameh answered:",
+              "text": "In a 2009 interview with Executive magazine, when asked when will Lebanon feel the impacts of the global financial crisis, Salameh answered: \"'Lebanon will not feel the effects of the financial crisis, because we took the necessary measures preemptively. This crisis has turned out to be a confidence crisis. Confidence in the banking sector in Lebanon and in the monetary in general, is very high, as witnessed by the large conversions from dollars to the Lebanese pound. In 2008, de-dollarization was important and the central bank bought more than $8 billion from the markets. Dollarization rates in deposits in the banking sector dropped from 77 percent to around 69 percent during 2008. The measures that we took preemptively were essentially based on preventing the banking sector from leveraging its balance sheets and on the other side, regulating the structured products and forbidding the acquisition of toxic assets — like the sub-prime — by banks.",
               "formatting": {
                 "italic": [
                   "Executive"
                 ]
               }
+            },
+            {
+              "text": "So the banking sector in 2008 recorded profits that were over $1 billion, which was the best year for them."
+            },
+            {
+              "text": "The liquidity that we do have in our system will prevent any crisis in 2009.'\""
             }
           ]
         },
@@ -622,9 +628,7 @@
       ],
       "templates": [
         {
-          "list": [
-            "\"Lebanon will not feel the effects of the financial crisis, because we took the necessary measures preemptively. This crisis has turned out to be a confidence crisis. Confidence in the banking sector in Lebanon and in the monetary in general, is very high, as witnessed by the large conversions from dollars to the Lebanese pound. In 2008, de-dollarization was important and the central bank bought more than $8 billion from the markets. Dollarization rates in deposits in the banking sector dropped from 77 percent to around 69 percent during 2008. The measures that we took preemptively were essentially based on preventing the banking sector from leveraging its balance sheets and on the other side, regulating the structured products and forbidding the acquisition of toxic assets — like the sub-prime — by banks. So the banking sector in 2008 recorded profits that were over $1 billion, which was the best year for them. The liquidity that we do have in our system will prevent any crisis in 2009.\""
-          ],
+          "text": "\"Lebanon will not feel the effects of the financial crisis, because we took the necessary measures preemptively. This crisis has turned out to be a confidence crisis. Confidence in the banking sector in Lebanon and in the monetary in general, is very high, as witnessed by the large conversions from dollars to the Lebanese pound. In 2008, de-dollarization was important and the central bank bought more than $8 billion from the markets. Dollarization rates in deposits in the banking sector dropped from 77 percent to around 69 percent during 2008. The measures that we took preemptively were essentially based on preventing the banking sector from leveraging its balance sheets and on the other side, regulating the structured products and forbidding the acquisition of toxic assets — like the sub-prime — by banks. So the banking sector in 2008 recorded profits that were over $1 billion, which was the best year for them. The liquidity that we do have in our system will prevent any crisis in 2009.\"",
           "template": "blockquote"
         }
       ],
