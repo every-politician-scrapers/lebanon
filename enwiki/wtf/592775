@@ -375,7 +375,21 @@
               ]
             }
           ]
-        },
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Lebanese Civil War",
+      "depth": 1,
+      "paragraphs": [
         {
           "sentences": [
             {
@@ -442,12 +456,6 @@
         }
       ],
       "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
         {
           "template": "citation",
           "type": "inline",
