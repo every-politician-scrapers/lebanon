@@ -108,6 +108,12 @@
           },
           "birth_place": {
             "text": "Beirut, Lebanon"
+          },
+          "image": {
+            "text": "Amin Salam in 2022.jpg"
+          },
+          "caption": {
+            "text": "Salam in 2022"
           }
         }
       ],
