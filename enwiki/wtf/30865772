@@ -41,7 +41,7 @@
               }
             },
             {
-              "text": "He also serves as the acting President of Lebanon as of October 2022 in his capacity as prime minister.",
+              "text": "He also serves as the resigned prime minister of a cabinet that when assembled with a majority of its members acts as President of Lebanon for emergency situations, and this since the end of the term of president Michel Aoun as of October 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -159,10 +159,16 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Najib Mikati\nنجيب ميقاتي"
+            "text": "Najib Mikati"
+          },
+          "native_name": {
+            "text": "نجيب ميقاتي"
+          },
+          "native_name_lang": {
+            "text": "ar"
           },
           "image": {
-            "text": "File:Najib Mikati portrait.jpg"
+            "text": "Najib Mikati portrait.jpg"
           },
           "office1": {
             "text": "Prime Minister of Lebanon",
@@ -177,7 +183,7 @@
             "text": "10 September 2021"
           },
           "president1": {
-            "text": "Michel Aoun\nHimself (Acting)",
+            "text": "Michel Aoun",
             "links": [
               {
                 "type": "internal",
@@ -304,13 +310,7 @@
             "text": "31 October 2022"
           },
           "predecessor": {
-            "text": "Michel Aoun",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michel Aoun"
-              }
-            ]
+            "text": "Himself"
           },
           "office4": {
             "text": "Minister of Public Works and Transport",
