@@ -149,6 +149,10 @@
           "template": "use dmy dates"
         },
         {
+          "small": "yes",
+          "template": "pp-semi-protected"
+        },
+        {
           "df": "yes",
           "year": "1955",
           "month": "11",
