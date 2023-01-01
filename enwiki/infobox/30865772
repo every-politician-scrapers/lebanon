@@ -1,5 +1,7 @@
 {
-  "name": "Najib Mikati\nنجيب ميقاتي",
+  "name": "Najib Mikati",
+  "native_name": "نجيب ميقاتي",
+  "native_name_lang": "ar",
   "office1": "Prime Minister of Lebanon",
   "term_start1": "10 September 2021",
   "deputy1": "Saadeh Al Shami",
@@ -16,7 +18,7 @@
   "successor3": "Fouad Siniora",
   "office": "Acting President of Lebanon",
   "term_start": "31 October 2022",
-  "predecessor": "Michel Aoun",
+  "predecessor": "Himself",
   "office4": "Minister of Public Works and Transport",
   "term_start4": "6 December 1998",
   "term_end4": "26 October 2004",
