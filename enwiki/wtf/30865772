@@ -310,7 +310,13 @@
             "text": "31 October 2022"
           },
           "predecessor": {
-            "text": "Himself"
+            "text": "Michel Aoun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michel Aoun"
+              }
+            ]
           },
           "office4": {
             "text": "Minister of Public Works and Transport",
